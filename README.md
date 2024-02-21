@@ -1,4 +1,4 @@
-## Leap Year Calculator
+## Leap Year Checker
 
 This is a simple web application that helps users determine whether a given year is a leap year or not.
 
@@ -27,6 +27,11 @@ To clone this repository to your local machine, use the following command:
 ```bash 
 git clone https://github.com/your-username/leap-year-calculator.git
 ```
+
+# Live Demo
+
+You can view the live demo of the project [here](https://ashikibrahim07.github.io/leap-year-checker/).
+
 
 ## Contributing
 
