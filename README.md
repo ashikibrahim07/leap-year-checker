@@ -4,6 +4,17 @@ This is a simple web application that helps users determine whether a given year
 
 I built this project some time ago, and now I'm on a streak of uploading my projects to GitHub. This is one of them
 
+## Table of Contents
+
+- [Explanation of Leap Year](#explanation-of-leap-year)
+- [How to Use](#how-to-use)
+- [How to Calculate](#how-to-calculate)
+- [Clone Repository](#clone-repository)
+- [Live Demo](#live-demo)
+- [Contributing](#contributing)
+- [Author](#author)
+- [License](#license)
+
 ## Explanation of Leap Year
 
 A leap year is a year that is divisible by 4, except for years that are divisible by 100 but not divisible by 400. In simpler terms, a leap year occurs every 4 years, but century years (e.g., 1900, 2000, 2100) are not leap years unless they are divisible by 400.
