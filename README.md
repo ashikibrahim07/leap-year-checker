@@ -1,6 +1,6 @@
 ## Leap Year Checker
 
-This is a simple web application that helps users determine whether a given year is a leap year or not.
+This is a simple web application that helps users determine whether  year they entered is a leap year or not.
 
 I built this project some time ago, and now I'm on a streak of uploading my projects to GitHub. This is one of them
 
